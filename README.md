@@ -1,2 +1,5 @@
-# Receive-ICP-2026-02-04-33744433503617
-Receive ICP-2026-02-04 3:37:44.433503617 - created on ICP Ninja
+# Receiving ICP
+
+A canister demonstrating how to receive ICP tokens by generating account identifiers and checking balances on the ICP ledger.
+
+This canister can be deployed on [ICP Ninja](https://icp.ninja/projects/receive-icp) for quick testing and demonstration.
